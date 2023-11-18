@@ -1,8 +1,8 @@
 import { LandingPage } from './LandingPage.jsx';
-import {NavBar} from './NavBar.jsx'
+import {HeroSection} from './HeroSection.jsx'
 function App() {
 return(
-  <><NavBar /><LandingPage /></>
+  <><HeroSection /><LandingPage /></>
 )
 }
 
